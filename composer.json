@@ -8,7 +8,15 @@
     "pay",
     "wxpay"
   ],
-  "license": "BSD",
+  "homepage": "https://github.com/sunshangwu/wxPay_v3.0.1.git",
+  "authors": [
+    {
+      "name": "ssw",
+      "email": "ssw@gmail.com",
+      "homepage": "http://www.sunshangwu.cn"
+    }
+  ],
+  "license": "MIT",
   "time": "2018-06-08",
   "autoload": {
     "psr-4": {
